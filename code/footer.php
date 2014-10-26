@@ -30,7 +30,7 @@
                       </tr>
                       <tr>
                         <td height="40" align="left" valign="middle" class="copyright" style="padding-top:15px;">
-                        &copy; 2013 Copyright Art O Sculpture  |  Powerd By <a href="#" target="_blank">Nextstep Creation</a></td>
+                        &copy; 2013 Copyright Art O Sculpture  |  Powerd By <a href="#" target="_blank">Technicise.com</a></td>
                       </tr>
                     </table>
 
